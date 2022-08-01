@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+Hi, My name is Caterina and I’m at Henry’s Bootcamp to be a future Full Stack developer.
+The fact of having bet on the world of programming made me an extremely persevering person, open to change and eager to learn!
 
-<!--
-**catearacil/catearacil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning everything 📖
+- 💬 Ask me about anything related to JavaScript
+- 😄 Pronouns: Cate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+👤 https://www.linkedin.com/in/caterina-aracil-42256722b/
+✉️️ caterinaaracil@gmail.com
+📞 +549 2216556430 
