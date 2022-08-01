@@ -10,5 +10,7 @@ The fact of having bet on the world of programming made me an extremely persever
 
 ### Connect with me:
 👤 https://www.linkedin.com/in/caterina-aracil-42256722b/
+
 ✉️️ caterinaaracil@gmail.com
+
 📞 +549 2216556430 
