@@ -2,8 +2,7 @@
 ### Hi, My name is Caterina and I’m Full Stack developer.
 
 ### 
-![Captura](https://user-images.githubusercontent.com/103588103/182208869-d9889251-2e4a-4c79-8b71-2b0ced0717a4.PNG)
-![Captura](https://user-images.githubusercontent.com/103588103/192125521-8be3415a-7d21-4f71-8c12-984fd99b87d9.PNG)
+![Captura1](https://user-images.githubusercontent.com/103588103/192125558-35ff17ae-45af-484b-a413-035bb4d05288.PNG)
 
 
 
