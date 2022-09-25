@@ -1,5 +1,5 @@
 
-### Hi, welcome to my profile
+### Hi, welcome to my profile...
 My name is Caterina and I’m Full Stack developer.
 
 ###![Captura1](https://user-images.githubusercontent.com/103588103/192125558-35ff17ae-45af-484b-a413-035bb4d05288.PNG)
