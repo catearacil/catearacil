@@ -17,3 +17,33 @@ Hi, My name is Caterina and I’m at Henry’s Bootcamp to be a future Full Stac
 ✉️️ caterinaaracil@gmail.com
 
 📞 +549 2216556430 
+
+### Languages and Tools:
+
+Visual Studio Code
+
+HTML
+
+HTML5
+
+CSS
+
+JavaScript
+
+React.js
+
+Redux.js
+
+Node.js
+
+MongoDB
+
+Mongoose
+
+TypeScript
+
+Git
+
+GitHub
+
+Terminal
