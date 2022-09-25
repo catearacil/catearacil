@@ -1,8 +1,9 @@
-### Welcome to my profile! 👋
-Hi, My name is Caterina and I’m Full Stack developer.
+
+### Hi, My name is Caterina and I’m Full Stack developer.
 
 ### 
 ![Captura](https://user-images.githubusercontent.com/103588103/182208869-d9889251-2e4a-4c79-8b71-2b0ced0717a4.PNG)
+(![Captura](https://user-images.githubusercontent.com/103588103/182208869-d9889251-2e4a-4c79-8b71-2b0ced0717a4.PNG))
 
 
 ### The fact of having bet on the world of programming made me an extremely persevering person, open to change and eager to learn!
