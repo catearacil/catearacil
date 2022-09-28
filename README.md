@@ -2,7 +2,8 @@
 ### Hi, welcome to my profile...
 ### My name is Caterina and I’m Full Stack developer.
 
-![Captura1](https://user-images.githubusercontent.com/103588103/192125558-35ff17ae-45af-484b-a413-035bb4d05288.PNG)
+(![Copia de Azul Oscuro Sencillo Tecnología y Videojuegos Enlace en Perfil Sitio Web](https://user-images.githubusercontent.com/103588103/192873130-dfa249d1-98d6-4ca8-b0d5-debe89ef70d9.png)
+)
 
 
 
@@ -21,32 +22,5 @@
 
 📞 +549 2216556430 
 
-### Languages and Tools:
-
-Visual Studio Code
-
-HTML
-
-HTML5
-
-CSS
-
-JavaScript
-
-React.js
-
-Redux.js
-
-Node.js
-
-MongoDB
-
-Mongoose
-
-TypeScript
-
-Git
-
-GitHub
 
 
