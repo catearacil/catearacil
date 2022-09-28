@@ -20,7 +20,7 @@
 
 ✉️️ caterinaaracil@gmail.com
 
-📞 +549 2216556430 
+
 
 
 
