@@ -25,3 +25,5 @@
 
 
 
+[instagram]: https://www.instagram.com/cate.aracil/
+[linkedin]: https://www.linkedin.com/in/caterina-aracil-42256722b/
