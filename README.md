@@ -3,7 +3,8 @@
 ### My name is Caterina and I’m Full Stack Developer 💻
 
 
-![Copia de Azul Oscuro Sencillo Tecnología y Videojuegos Enlace en Perfil Sitio Web (1)](https://user-images.githubusercontent.com/103588103/193473959-3bc76f26-ff99-4b07-9392-111b60bd7a32.png)
+
+![Copia de Azul Oscuro Sencillo Tecnología y Videojuegos Enlace en Perfil Sitio Web (2)](https://user-images.githubusercontent.com/103588103/194138077-024e8624-1aa2-4638-93b7-40cd5594e3cc.png)
 
 
 
