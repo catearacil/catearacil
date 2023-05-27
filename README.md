@@ -3,9 +3,7 @@
 ### My name is Caterina and I’m Full Stack Developer 💻
 
 
-
-![Copia de Azul Oscuro Sencillo Tecnología y Videojuegos Enlace en Perfil Sitio Web (2)](https://user-images.githubusercontent.com/103588103/194138077-024e8624-1aa2-4638-93b7-40cd5594e3cc.png)
-
+<img width="882" alt="Captura de pantalla 2023-05-27 a las 16 12 07" src="https://github.com/catearacil/catearacil/assets/103588103/e8ed1bbc-976e-4691-a514-5f368938f497">
 
 
 
@@ -19,12 +17,13 @@
 
 ### Connect with me:
 [<img align="left" alt="catearacil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cate.aracil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
 
 
 
-[instagram]: https://www.instagram.com/cate.aracil/
+
+
+
 [linkedin]: https://www.linkedin.com/in/caterina-aracil-42256722b/
